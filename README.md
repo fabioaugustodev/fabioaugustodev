@@ -2,7 +2,7 @@
 
 🌱 **Game developer** in Progress
 
-📚 Studying **Game development** by Fatec Ourinhos
+📚 Graduated in **Game development** at Fatec Ourinhos
 
 📚 ⛔️ I studied **Systems Analysis and Development** until the 4th semester at Fatec Ourinhos
 
