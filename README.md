@@ -26,4 +26,4 @@
 <code><img height="30" src="https://github.com/playlok/playlok/blob/master/assets/photoshop.png"></code>
 <code><img height="30" src="https://github.com/playlok/playlok/blob/master/assets/premiere.png"></code>
 
-📫 Use my [Linkedin](https://www.linkedin.com/in/playlok/) to contact me.
+📫 Use my [Linkedin](https://www.linkedin.com/in/fabioaugusto1/) to contact me.
